@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = "laravel-app"
-        CONTAINER_NAME = "laravel_app"
+        CONTAINER_NAME = "praktikum_3"
     }
 
     stages {
